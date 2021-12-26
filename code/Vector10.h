@@ -35,6 +35,7 @@ public:
 
 private:
     int arr[10];
+    int vect_back = 0;
     // you can add add more private member variables and member functions here if you need
 };
 
